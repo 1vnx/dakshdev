@@ -92,7 +92,7 @@ export default function Home() {
             alt="Globe icon"
             width={16}
             height={16}
-          />
+          />z
           Go to nextjs.org →
         </a>
       </footer>
